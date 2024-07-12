@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "389064890667",
+    "project_id": "search-recipes-6c50c",
+    "storage_bucket": "search-recipes-6c50c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389064890667:android:fdfcdad49d0478ac860d6e",
+        "android_client_info": {
+          "package_name": "com.example.aiapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389064890667-bjtl4u5rursk8ukc2es7udtvpjui8c26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqU50CaMRBtayyjNPOuGAYsUCVPhB_s9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389064890667-bjtl4u5rursk8ukc2es7udtvpjui8c26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389064890667:android:0b6773cef03f571f860d6e",
+        "android_client_info": {
+          "package_name": "com.example.searchrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389064890667-ormfd3qs14pbpstfea17691m30f85c78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.searchrecipes",
+            "certificate_hash": "eeaef9c2bcf41a930a39c45b1500e120e54991e2"
+          }
+        },
+        {
+          "client_id": "389064890667-bjtl4u5rursk8ukc2es7udtvpjui8c26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqU50CaMRBtayyjNPOuGAYsUCVPhB_s9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389064890667-bjtl4u5rursk8ukc2es7udtvpjui8c26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
